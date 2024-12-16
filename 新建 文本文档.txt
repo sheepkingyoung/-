@@ -1,0 +1,1048 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Flamino, J
+   Galeazzi, A
+   Feldman, S
+   Macy, MW
+   Cross, B
+   Zhou, ZK
+   Serafino, M
+   Bovet, A
+   Makse, HA
+   Szymanski, BK
+AF Flamino, James
+   Galeazzi, Alessandro
+   Feldman, Stuart
+   Macy, Michael W.
+   Cross, Brendan
+   Zhou, Zhenkun
+   Serafino, Matteo
+   Bovet, Alexandre
+   Makse, Hernan A.
+   Szymanski, Boleslaw K.
+TI Political polarization of news media and influencers on Twitter in the
+   2016 and 2020 US presidential elections
+SO NATURE HUMAN BEHAVIOUR
+AB Flamino et al. examine changes in the political news media and influencer landscape of Twitter between the 2016 and 2020 US presidential elections.
+   Social media has been transforming political communication dynamics for over a decade. Here using nearly a billion tweets, we analyse the change in Twitter's news media landscape between the 2016 and 2020 US presidential elections. Using political bias and fact-checking tools, we measure the volume of politically biased content and the number of users propagating such information. We then identify influencers-users with the greatest ability to spread news in the Twitter network. We observe that the fraction of fake and extremely biased content declined between 2016 and 2020. However, results show increasing echo chamber behaviours and latent ideological polarization across the two elections at the user and influencer levels.
+RI Makse, Hernan/KPA-9630-2024; Szymanski, Boleslaw/JAC-8900-2023; Zhou,
+   Zhenkun/HZI-0768-2023; Szymanski, Boleslaw/A-9121-2009; Bovet,
+   Alexandre/H-6413-2013
+OI Flamino, James/0000-0002-2753-5481; Galeazzi,
+   Alessandro/0000-0001-6859-0391; Cross, Brendan/0000-0001-5060-3705;
+   Macy, Michael/0000-0003-0024-5027; Szymanski,
+   Boleslaw/0000-0002-0307-6743; Bovet, Alexandre/0000-0003-3937-3704
+SN 2397-3374
+PD JUN
+PY 2023
+VL 7
+IS 6
+BP 904
+EP 916
+DI 10.1038/s41562-023-01550-8
+EA MAR 2023
+UT WOS:000948716800003
+PM 36914806
+ER
+
+PT J
+AU Visser, J
+   Konat, B
+   Duthie, R
+   Koszowy, M
+   Budzynska, K
+   Reed, C
+AF Visser, Jacky
+   Konat, Barbara
+   Duthie, Rory
+   Koszowy, Marcin
+   Budzynska, Katarzyna
+   Reed, Chris
+TI Argumentation in the 2016 US presidential elections: annotated corpora
+   of television debates and social media reaction
+SO LANGUAGE RESOURCES AND EVALUATION
+AB In this paper we present US2016, the largest publicly available set of corpora of annotated dialogical argumentation. The annotation covers argumentative relations, dialogue acts and pragmatic features. The corpora comprise transcriptions of television debates leading up to the 2016 US presidential elections, and reactions to the debates on Reddit. These two constitutive parts of the corpora are integrated by means of the intertextual correspondence between them. The rhetorical richness and high argument density of the communicative context results in cross-genre corpora that are robust resources for the study of the dialogical dynamics of argumentation in three ways: first, in empirical strands of research in discourse analysis and argumentation studies; second, in the burgeoning field of argument mining where automatic techniques require such data; and third, in formulating algorithmic techniques for sensemaking through the development of Argument Analytics.
+RI ; Koszowy, Marcin/I-4119-2016
+OI Reed, Chris/0000-0002-6849-1374; Koszowy, Marcin/0000-0001-5553-7428;
+   Budzynska, Katarzyna/0000-0001-9674-9902; Visser,
+   Jacky/0000-0003-2778-0847; Konat, Barbara/0000-0003-2370-4636
+SN 1574-020X
+EI 1574-0218
+PD MAR
+PY 2020
+VL 54
+IS 1
+BP 123
+EP 154
+DI 10.1007/s10579-019-09446-8
+UT WOS:000530845200006
+ER
+
+PT J
+AU Topîrceanu, A
+AF Topirceanu, Alexandru
+TI Electoral forecasting using a novel temporal attenuation model:
+   Predicting the US presidential elections
+SO EXPERT SYSTEMS WITH APPLICATIONS
+AB Electoral forecasting is an ongoing scientific challenge with high social impact, as current data-driven methods try to efficiently combine statistics with economic indices and machine learning. However, recent studies in network science pinpoint towards the importance of temporal characteristics in the diffusion of opinion. As such, we combine concepts of micro-scale opinion dynamics and temporal epidemics, and develop a novel macro-scale temporal attenuation (TA) model, which uses pre-election poll data to improve forecasting accuracy. Our hypothesis is that the timing of publicizing opinion polls plays a significant role in how opinion oscillates, especially right before elections. Thus, we define the momentum of opinion as a temporal function which bounces up when opinion is injected in a system of voters, and dampens down during states of relaxation. We validate TA on survey data from the US Presidential Elections between 1968 and 2016, and TA outperforms several statistical estimates, ARIMA models, as well as the best pollsters at their time, in 10 out of 13 presidential elections. We present two different implementations of the TA model, which accumulate an average forecasting error of 3.04 points over the 48-year period. Conversely, statistical methods accumulate 7.48 points error, and the best pollsters accumulate 3.64 points. Overall, TA offers increases of 23-37% in forecasting performance compared to the state of the art. We show that the effectiveness of TA does not drop when relatively few polls are available; moreover, with increasing availability of pre-election surveys, we believe that our TA model will become a reference alongside other modern election forecasting techniques.
+RI Topirceanu, Alexandru/AAK-6609-2020
+SN 0957-4174
+EI 1873-6793
+PD NOV 15
+PY 2021
+VL 182
+AR 115289
+DI 10.1016/j.eswa.2021.115289
+EA JUN 2021
+UT WOS:000688460900004
+ER
+
+PT J
+AU Easaw, J
+   Fang, YM
+   Heravi, S
+AF Easaw, Joshy
+   Fang, Yongmei
+   Heravi, Saeed
+TI Using polls to forecast popular vote share for US presidential elections
+   2016 and 2020: An optimal forecast combination based on ensemble
+   empirical model
+SO JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY
+AB This study introduces the Ensemble Empirical Mode Decomposition (EEMD) technique to forecasting popular vote shares in general elections. The technique is useful when using polling data. Our main interest in this study is shorter- and longer-term forecasting and, thus, we consider from the shortest forecast horizon of 1-day to three months ahead. The EEMD technique is used to decompose the election data for the two most recent US presidential elections; 2016 and 2020. Three models, Support Vector Machine (SVM), Neural Network (NN) and ARIMA models are then used to predict the decomposition components. Subsequently, the final hybrid model is constructed by comparing the prediction performance of the decomposition components. The predicting performance of the combination model is compared with the benchmark individual models: SVM, NN, and ARIMA. Finally, this is also compared to the single prediction market IOWA Electronic Markets. The results indicate that the prediction performance of combined EEMD model is better than that of the individual models.
+SN 0160-5682
+EI 1476-9360
+PD MAR 4
+PY 2023
+VL 74
+IS 3
+BP 905
+EP 911
+DI 10.1080/01605682.2022.2101951
+EA JUL 2022
+UT WOS:000828968300001
+ER
+
+PT J
+AU Egli, F
+   Schmid, N
+   Schmidt, TS
+AF Egli, Florian
+   Schmid, Nicolas
+   Schmidt, Tobias S.
+TI Backlash to fossil fuel phase-outs: the case of coal mining in US
+   presidential elections
+SO ENVIRONMENTAL RESEARCH LETTERS
+AB Phasing out coal is a crucial lever in reaching international climate targets. However, the resulting jobs losses might trigger voter backlash, making phase-outs politically costly. Here, we present an analysis of the electoral response to coal mining job losses in US presidential elections using matched and bordering difference-in-difference estimators. Our findings confirm that fossil fuel phase-outs can result in voter backlash. In our main specification, we find a four percentage-point (pp) increase in the Republican vote share in 2012 (range across specs. = 3.6 pp-4.5 pp), declining to 3.2 pp in 2016 (range across specs. = 3.2 pp-4.2 pp), in counties suffering from coal mining job loss. The estimated electoral response is around three times as large as the number of jobs lost. We observe this response only in places where there was significant job loss, where these jobs accounted for a large share of locally available jobs and where income levels were low. Relative party strengths do not influence the results.
+OI Schmidt, Tobias/0000-0002-7971-2187; Schmid,
+   Nicolas/0000-0003-4348-6031; Egli, Florian/0000-0001-8617-5175
+SN 1748-9326
+PD SEP 1
+PY 2022
+VL 17
+IS 9
+AR 094002
+DI 10.1088/1748-9326/ac82fe
+UT WOS:000840501700001
+ER
+
+PT J
+AU Tierney, G
+   Volfovsky, A
+AF Tierney, Graham
+   Volfovsky, Alexander
+TI Bias and excess variance in election polling: a not-so-hidden Markov
+   model
+SO JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES A-STATISTICS IN SOCIETY
+AB With historic misses in the 2016 and 2020 US Presidential elections, interest in measuring polling errors has increased. The most common method for measuring directional errors and non-sampling excess variability during a postmortem for an election is by assessing the difference between the poll result and election result for polls conducted within a few days of the day of the election. Analysing such polling error data is notoriously difficult with typical models being extremely sensitive to the time between the poll and the election. We leverage hidden Markov models traditionally used for election forecasting to flexibly capture time-varying preferences and treat the election result as a peek at the typically hidden Markovian process. Our results are much less sensitive to the choice of time window, avoid conflating shifting preferences with polling error, and are more interpretable despite a highly flexible model. We demonstrate these results with data on polls from the 2004 through 2020 US Presidential elections and 1992 through 2020 US Senate elections, concluding that previously reported estimates of bias in Presidential elections were too extreme by 10%, estimated bias in Senatorial elections was too extreme by 25%, and excess variability estimates were also too large.
+OI Volfovsky, Alexander/0000-0003-4462-1020
+SN 0964-1998
+EI 1467-985X
+PD 2024 JUL 25
+PY 2024
+DI 10.1093/jrsssa/qnae066
+EA JUL 2024
+UT WOS:001275656200001
+ER
+
+PT J
+AU Hagemann, L
+   Abramova, O
+AF Hagemann, Linus
+   Abramova, Olga
+TI Sentiment, we-talk and engagement on social media: insights from Twitter
+   data mining on the US presidential elections 2020
+SO INTERNET RESEARCH
+AB PurposeGiven inconsistent results in prior studies, this paper applies the dual process theory to investigate what social media messages yield audience engagement during a political event. It tests how affective cues (emotional valence, intensity and collective self-representation) and cognitive cues (insight, causation, certainty and discrepancy) contribute to public engagement.Design/methodology/approachThe authors created a dataset of more than three million tweets during the 2020 United States (US) presidential elections. Affective and cognitive cues were assessed via sentiment analysis. The hypotheses were tested in negative binomial regressions. The authors also scrutinized a subsample of far-famed Twitter users. The final dataset, scraping code, preprocessing and analysis are available in an open repository.FindingsThe authors found the prominence of both affective and cognitive cues. For the overall sample, negativity bias was registered, and the tweet's emotionality was negatively related to engagement. In contrast, in the sub-sample of tweets from famous users, emotionally charged content produced higher engagement. The role of sentiment decreases when the number of followers grows and ultimately becomes insignificant for Twitter participants with many followers. Collective self-representation ("we-talk") is consistently associated with more likes, comments and retweets in the overall sample and subsamples.Originality/valueThe authors expand the dominating one-sided perspective to social media message processing focused on the peripheral route and hence affective cues. Leaning on the dual process theory, the authors shed light on the effectiveness of both affective (peripheral route) and cognitive (central route) cues on information appeal and dissemination on Twitter during a political event. The popularity of the tweet's author moderates these relationships.
+RI Abramova, Olga/AAC-7136-2019
+OI Hagemann, Linus/0000-0003-4147-7561
+SN 1066-2243
+PD NOV 27
+PY 2023
+VL 33
+IS 6
+BP 2058
+EP 2085
+DI 10.1108/INTR-12-2021-0885
+EA JAN 2023
+UT WOS:000914173400001
+ER
+
+PT J
+AU Wang, JJ
+   Liang, Y
+   Su, JT
+   Zhu, JM
+AF Wang, Jing-Jing
+   Liang, Yan
+   Su, Jin-Tao
+   Zhu, Jia-Ming
+TI An Analysis of the Economic Impact of US Presidential Elections Based on
+   Principal Component and Logical Regression
+SO COMPLEXITY
+AB Economy is one of the major issues in the United States presidential election campaign. In order to investigate the impact of the US presidential election on the economy, this paper first constructs an analysis model of the economic impact on the United States based on stepwise regression and principal component analysis to analyze the focus of different candidates' attention on the economic issues and its possible impact on the US economy in the election year and after the election; secondly, a Chinese economic impact analysis model based on factor analysis and machine learning logistic regression was constructed to analyze the impact of the US presidential election on the Chinese economy. At the same time, the future economic development of the United States and China based on the time series prediction model is forecast and analyzed, respectively. Finally, the countermeasures and policy suggestions on China's related economic development are put forward.
+OI Zhu, Jiaming/0000-0001-9419-9433; Su, Jin-Tao/0000-0001-6726-9766
+SN 1076-2787
+EI 1099-0526
+PD MAR 23
+PY 2021
+VL 2021
+AR 5593967
+DI 10.1155/2021/5593967
+UT WOS:000637364600002
+ER
+
+PT J
+AU El Deeb, O
+   Villaseñor-Ibáñez, J
+   del Castillo-Mussot, M
+AF El Deeb, Omar
+   Villasenor-Ibanez, J.
+   del Castillo-Mussot, M.
+TI Faith, geography and the ballot box: Analyzing voting trends in the 2020
+   US presidential election through spatial and confessional correlations
+SO INTERNATIONAL JOURNAL OF MODERN PHYSICS C
+AB From five parameters at the state level: percentage of Catholic adherents (CATH-ADH), average number of adherents per congregation (ADH/CON), number of congregations per capita (CON/POP) and voting percentages from the 2020 election for Trump (TRUMP) and Biden (BIDEN), we obtain six Pearson correlation coefficients at the national and regional levels. These yield a significant positive correlation between CATH-ADH and BIDEN, as well as for ADH/CON and BIDEN, while the opposite is true for TRUMP. Conversely, there is a negative correlation between CON/POP and BIDEN and a positive one for TRUMP. The interplay between these, as well as important geographical and confessional spatial autocorrelations measured using Moran's index, show the influence of religion on the 2020 election among two main lines: Catholic support for Biden and Trump support from atomized yet smaller congregations.
+RI El Deeb, Omar/JDD-5742-2023
+OI El Deeb, Omar/0000-0001-9786-8292
+SN 0129-1831
+EI 1793-6586
+PD 2024 AUG 17
+PY 2024
+DI 10.1142/S0129183124501900
+EA AUG 2024
+UT WOS:001293222100005
+ER
+
+PT J
+AU Biswas, K
+   Biswas, S
+   Sen, P
+AF Biswas, Kathakali
+   Biswas, Soumyajyoti
+   Sen, Parongama
+TI Block size dependence of coarse graining in discrete opinion dynamics
+   model: Application to the US presidential elections
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+AB The electoral college of voting system for the US presidential election is analogous to a coarse graining procedure commonly used to study phase transitions in physical systems. In a recent paper, opinion dynamics models manifesting a phase transition, were shown to be able to explain the cases when a candidate winning more number of popular votes could still lose the general election on the basis of the electoral college system. We explore the dependence of such possibilities on various factors like the number of states and total population (i.e., system sizes) and get an interesting scaling behavior. In comparison with the real data, it is shown that the probability of the minority win, calculated within the model assumptions, is indeed near the highest possible value. In addition, we also implement a two step coarse graining procedure, relevant for both opinion dynamics and information theory. (C) 2020 Elsevier B.V. All rights reserved.
+RI Biswas, Soumyajyoti/IWU-5343-2023; Biswas, Soumyajyoti/O-7019-2017
+OI Biswas, Soumyajyoti/0000-0002-0729-0587
+SN 0378-4371
+EI 1873-2119
+PD MAR 15
+PY 2021
+VL 566
+AR 125639
+DI 10.1016/j.physa.2020.125639
+UT WOS:000606812800035
+ER
+
+PT J
+AU De Lellis, P
+   Marín, MR
+   Porfiri, M
+AF De Lellis, Pietro
+   Marin, Manuel Ruiz
+   Porfiri, Maurizio
+TI Quantifying the role of the COVID-19 pandemic in the 2020 US
+   presidential elections
+SO EUROPEAN PHYSICAL JOURNAL-SPECIAL TOPICS
+AB In the media, a prevalent narrative is that the incumbent United States President Donald J. Trump lost the 2020 elections because of the way he handled the COVID-19 pandemic. Quantitative evidence to support this narrative is, however, limited. We put forward a spatial, information-theoretic approach to critically examine the link between voting behavior and COVID-19 incidence in the 2020 presidential elections. The approach overcomes classical limitations of traditional regression analysis, where it does not require an underlying mathematical model and it can capture nonlinear interactions. From the analysis of county-level data, we uncovered a robust association between voting behavior and prevalence of COVID-19 cases. Surprisingly, such an association points in the opposite direction from the accepted narrative: in counties that experienced less COVID-19 cases, the incumbent President lost more ground to his opponent, now President Joseph R. Biden Jr. A tenable explanation of this observation is the different attitude of liberal and conservative voters toward the pandemic, which led to more COVID-19 spreading in counties with a larger share of republican voters.
+RI DE LELLIS, Pietro/N-3928-2019; Porfiri, Maurizio/A-1712-2009; DE LELLIS,
+   Pietro/F-8614-2016
+OI DE LELLIS, Pietro/0000-0002-2656-6454; RUIZ MARIN,
+   MANUEL/0000-0001-9228-6410
+SN 1951-6355
+EI 1951-6401
+PD JUL
+PY 2022
+VL 231
+IS 9
+SI SI
+BP 1635
+EP 1643
+DI 10.1140/epjs/s11734-021-00299-3
+EA OCT 2021
+UT WOS:000712170200001
+PM 34725567
+ER
+
+PT J
+AU Bonet-Jover, A
+   Sepúlveda-Torres, R
+   Saquete, E
+   Martínez-Barco, P
+   Nieto-Pérez, M
+AF Bonet-Jover, Alba
+   Sepulveda-Torres, Robiert
+   Saquete, Estela
+   Martinez-Barco, Patricio
+   Nieto-Perez, Mario
+TI RUN-AS: a novel approach to annotate news reliability for disinformation
+   detection
+SO LANGUAGE RESOURCES AND EVALUATION
+AB The development of the internet and digital technologies has inadvertently facilitated the huge disinformation problem that faces society nowadays. This phenomenon impacts ideologies, politics and public health. The 2016 US presidential elections, the Brexit referendum, the COVID-19 pandemic and the Russia-Ukraine war have been ideal scenarios for the spreading of fake news and hoaxes, due to the massive dissemination of information. Assuming that fake news mixes reliable and unreliable information, we propose RUN-AS (Reliable and Unreliable Annotation Scheme), a fine-grained annotation scheme that enables the labelling of the structural parts and essential content elements of a news item and their classification into Reliable and Unreliable. This annotation proposal aims to detect disinformation patterns in text and to classify the global reliability of news. To this end, a dataset in Spanish was built and manually annotated with RUN-AS and several experiments using this data set were conducted to validate the annotation scheme by using Machine Learning (ML) and Deep Learning (DL) algorithms. The experiments evidence the validity of the annotation scheme proposed, obtaining the best F(1)m, 0.948, with the Decision Tree algorithm.
+RI Boró, Estela/H-1922-2015; Martínez-Barco, Patricio/A-4161-2011
+OI Bonet-Jover, Alba/0000-0002-7172-0094; Sepulveda Torres,
+   Robiert/0000-0002-2784-2748
+SN 1574-020X
+EI 1574-0218
+PD JUN
+PY 2024
+VL 58
+IS 2
+BP 609
+EP 639
+DI 10.1007/s10579-023-09678-9
+EA AUG 2023
+UT WOS:001043558000001
+ER
+
+PT J
+AU van der Does, T
+   Galesic, M
+   Dunivin, ZO
+   Smaldino, PE
+AF van der Does, Tamara
+   Galesic, Mirta
+   Dunivin, Zackary Okun
+   Smaldino, Paul E.
+TI Strategic identity signaling in heterogeneous networks
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+AB Individuals often signal identity information to facilitate assortment with partners who are likely to share norms, values, and goals. However, individuals may also be incentivized to encrypt their identity signals to avoid detection by dissimilar receivers, particularly when such detection is costly. Using mathematical modeling, this idea has previously been formalized into a theory of covert signaling. In this paper, we provide an empirical test of the theory of covert signaling in the context of political identity signaling surrounding the 2020 US presidential elections. To identify likely covert and overt signals on Twitter, we use methods relying on differences in detection between ingroup and outgroup receivers. We strengthen our experimental predictions with additional mathematical modeling and examine the usage of selected covert and overt tweets in a behavioral experiment. We find that participants strategically adjust their signaling behavior in response to the political constitution of their audiences. These results support our predictions and point to opportunities for further theoretical development. Our findings have implications for our understanding of political communication, social identity, pragmatics, hate speech, and the maintenance of cooperation in diverse populations.
+RI Galesic, Mirta/B-8327-2012; Dunivin, Zackary/HII-6014-2022
+OI Smaldino, Paul/0000-0002-7133-5620; Galesic, Mirta/0000-0002-1712-9455
+SN 0027-8424
+EI 1091-6490
+PD MAR 8
+PY 2022
+VL 119
+IS 10
+AR e2117898119
+DI 10.1073/pnas.2117898119
+UT WOS:000772222800006
+PM 35239438
+ER
+
+PT J
+AU Pratelli, M
+   Petrocchi, M
+   Saracco, F
+   De Nicola, R
+AF Pratelli, Manuel
+   Petrocchi, Marinella
+   Saracco, Fabio
+   De Nicola, Rocco
+TI Online disinformation in the 2020 US election: swing vs. safe states
+SO EPJ DATA SCIENCE
+AB For U.S. presidential elections, most states use the so-called winner-take-all system, in which the state's presidential electors are awarded to the winning political party in the state after a popular vote phase, regardless of the actual margin of victory. Therefore, election campaigns are especially intense in states where there is no clear direction on which party will be the winning party. These states are often referred to as swing states. To measure the impact of such an election law on the campaigns, we analyze the Twitter activity surrounding the 2020 US preelection debate, with a particular focus on the spread of disinformation. We find that about 88% of the online traffic was associated with swing states. In addition, the sharing of links to unreliable news sources is significantly more prevalent in tweets associated with swing states: in this case, untrustworthy tweets are predominantly generated by automated accounts. Furthermore, we observe that the debate is mostly led by two main communities, one with a predominantly Republican affiliation and the other with accounts of different political orientations. Most of the disinformation comes from the former.
+RI Petrocchi, Marinella/AAF-6302-2020; Saracco, Fabio/O-5295-2015
+OI Pratelli, Manuel/0000-0002-9978-791X
+EI 2193-1127
+PD MAR 26
+PY 2024
+VL 13
+IS 1
+AR 25
+DI 10.1140/epjds/s13688-024-00461-6
+UT WOS:001191489600001
+ER
+
+PT J
+AU Ali, RH
+   Pinto, G
+   Lawrie, E
+   Linstead, EJ
+AF Ali, Rao Hamza
+   Pinto, Gabriela
+   Lawrie, Evelyn
+   Linstead, Erik J.
+TI A large-scale sentiment analysis of tweets pertaining to the 2020 US
+   presidential election
+SO JOURNAL OF BIG DATA
+AB We capture the public sentiment towards candidates in the 2020 US Presidential Elections, by analyzing 7.6 million tweets sent out between October 31st and November 9th, 2020. We apply a novel approach to first identify tweets and user accounts in our database that were later deleted or suspended from Twitter. This approach allows us to observe the sentiment held for each presidential candidate across various groups of users and tweets: accessible tweets and accounts, deleted tweets and accounts, and suspended or inaccessible tweets and accounts. We compare the sentiment scores calculated for these groups and provide key insights into the differences. Most notably, we show that deleted tweets, posted after the Election Day, were more favorable to Joe Biden, and the ones posted leading to the Election Day, were more positive about Donald Trump. Also, the older a Twitter account was, the more positive tweets it would post about Joe Biden. The aim of this study is to highlight the importance of conducting sentiment analysis on all posts captured in real time, including those that are now inaccessible, in determining the true sentiments of the opinions around the time of an event.
+OI Ali, Rao Hamza/0000-0002-2968-6275; Pinto, Gabriela/0000-0002-4815-8267
+EI 2196-1115
+PD JUN 16
+PY 2022
+VL 9
+IS 1
+AR 79
+DI 10.1186/s40537-022-00633-z
+UT WOS:000812224000001
+PM 35729897
+ER
+
+PT J
+AU Gordon, BR
+   Lovett, MJ
+   Luo, BW
+   Reeder, JC 
+AF Gordon, Brett R.
+   Lovett, Mitchell J.
+   Luo, Bowen
+   Reeder, James C., III
+TI Disentangling the Effects of Ad Tone on Voter Turnout and Candidate
+   Choice in Presidential Elections
+SO MANAGEMENT SCIENCE
+AB We study the effects of positive and negative advertising in presidential elections. We develop a model to disentangle these effects on voter turnout and candidate choice. The central empirical challenges are highly correlated and endogenous advertising quantities that are measured with error. To address these challenges, we construct a large set of potential instruments, including interactions with incumbency that we demonstrate provide the critical identifying variation, and apply machine-learning causal inference methods. Using data from the 2000 and 2004 US. presidential elections, we find that positive and negative ads play fundamentally different roles. Negative ads are more effective at driving relative candidate shares, whereas positive ads stimulate turnout These results indicate that a candidate geographically targeting tone trades off local relative share gains and local increases in turnout for localities with a strong base. Counterfactual simulations, where the candidates adjust the quantity of positive and negative advertising while budgets remain fixed, indicate that ad tone alone can impact the outcome of close elections. Our analysis also provides potential explanations as to why past studies have produced mixed findings on both ad-tone and turnout effects.
+RI Gordon, Brett/KCX-9518-2024
+OI Lovett, Mitchell/0000-0001-8428-2604; , Brett/0000-0001-9081-569X
+SN 0025-1909
+EI 1526-5501
+PD JAN
+PY 2023
+VL 69
+IS 1
+BP 220
+EP 243
+DI 10.1287/mnsc.2022.4347
+EA MAR 2022
+UT WOS:000827231100001
+ER
+
+PT J
+AU Prakasam, N
+   Huxtable-Thomas, L
+AF Prakasam, Naveena
+   Huxtable-Thomas, Louisa
+TI Reddit: Affordances as an Enabler for Shifting Loyalties
+SO INFORMATION SYSTEMS FRONTIERS
+AB This paper examines the affordances of Reddit, a digital media platform where Users share and discuss content. The aim of the study was to understand the affordances of Reddit, and how the affordances of Reddit through various features of the platform lead to outcomes, specifically those relating to political loyalty and the creation of political narratives. The study contributes an insight into the evolution and understanding of affordances as a result of examining the ways in which individuals who were previously members of another political group constructed narratives around switching their support to the Trump campaign in the 2016 US presidential elections. The study specifically focusses on an exclusive membership community called r/The_Donald. As a result of analysing posts on common themes using Qualitative Content Analysis (QCA), we conclude that the features enable membership of a community to be rewarded, switched or denied. As a result, this study has identified five affordances of Reddit, which include credibility, expressing oneself freely, echoing beliefs, creating membership and the meta-affordance 'Redpilling'. The outcomes of these affordances are that ingroups are created, support can be switched, extreme or hateful views are legitimised and a new brand of conservatism is given credibility. This in turn is concluded to have realised impacts outside of the virtual environment in this case on the self-reported behaviours of voters.
+RI ; Huxtable-Thomas, Louisa/C-1441-2014
+OI Prakasam, Naveena/0000-0001-8903-5338; Huxtable-Thomas,
+   Louisa/0000-0002-3642-4521
+SN 1387-3326
+EI 1572-9419
+PD JUN
+PY 2021
+VL 23
+IS 3
+BP 723
+EP 751
+DI 10.1007/s10796-020-10002-x
+EA MAR 2020
+UT WOS:000521884000001
+ER
+
+PT J
+AU Agarwal, S
+   Chowdary, CR
+AF Agarwal, Shivang
+   Chowdary, C. Ravindranath
+TI Combating hate speech using an adaptive ensemble learning model with a
+   case study on COVID-19
+SO EXPERT SYSTEMS WITH APPLICATIONS
+AB Social media platforms generate an enormous amount of data every day. Millions of users engage themselves with the posts circulated on these platforms. Despite the social regulations and protocols imposed by these platforms, it is difficult to restrict some objectionable posts carrying hateful content. Automatic hate speech detection on social media platforms is an essential task that has not been solved efficiently despite multiple attempts by various researchers. It is a challenging task that involves identifying hateful content from social media posts. These posts may reveal hate outrageously, or they may be subjective to the user or a community. Relying on manual inspection delays the process, and the hateful content may remain available online for a long time. The current state-of-the-art methods for tackling hate speech perform well when tested on the same dataset but fail miserably on cross-datasets. Therefore, we propose an ensemble learning-based adaptive model for automatic hate speech detection, improving the cross-dataset generalization. The proposed expert model for hate speech detection works towards overcoming the strong user-bias present in the available annotated datasets. We conduct our experiments under various experimental setups and demonstrate the proposed model's efficacy on the latest issues such as COVID-19 and US presidential elections. In particular, the loss in performance observed under cross-dataset evaluation is the least among all the models. Also, while restricting the maximum number of tweets per user, we incur no drop in performance.
+RI Agarwal, Shivang/AGY-1231-2022; Chowdary, Ravindranath/AAB-3122-2021
+OI AGARWAL, SHIVANG/0000-0001-8809-3894; Chowdary,
+   Ravindranath/0000-0002-9590-8446
+SN 0957-4174
+EI 1873-6793
+PD DEC 15
+PY 2021
+VL 185
+AR 115632
+DI 10.1016/j.eswa.2021.115632
+EA AUG 2021
+UT WOS:000701954400009
+PM 36567759
+ER
+
+PT J
+AU Segovia-Martin, J
+   Rivero, O
+AF Segovia-Martin, Jose
+   Rivero, Oscar
+TI Cross-border political competition
+SO PLOS ONE
+AB Individuals are increasingly exposed to news and opinion from beyond national borders. This news and opinion are often concentrated in clusters of ideological homophily, such as political parties, factions, or interest groups. But how does exposure to cross-border information affect the diffusion of ideas across national and ideological borders? Here, we develop a non-linear mathematical model for the cross-border spread of two ideologies. First, we describe the standard deterministic model where the populations of each country are assumed to be constant and homogeneously mixed. We solve the system of differential equations numerically by the Runge-Kutta method and show how small changes in the influence of a minority ideology can trigger shifts in the global political equilibrium. Second, we simulate recruitment as a stochastic differential process for each political affiliation and fit model solutions to population growth rates and voting populations in US presidential elections from 1932 to 2020. We also project the dynamics of several possible scenarios from 2020 to the end of the century. We show that cross-border influence plays a fundamental role in determining election outcomes. An increase in foreign support for a national party's ideas could change the election outcome, independent of domestic recruitment capacity. One key finding of our study suggests that voter turnout in the US will grow at a faster rate than non-voters in the coming decades. This trend is attributed to the enhanced recruitment capabilities of both major parties among non-partisans over time, making political disaffection less prominent. This phenomenon holds true across all simulated scenarios.
+OI Segovia-Martin, Jose/0000-0002-2303-3193
+SN 1932-6203
+PD MAY 29
+PY 2024
+VL 19
+IS 5
+AR e0297731
+DI 10.1371/journal.pone.0297731
+UT WOS:001236995300004
+PM 38809861
+ER
+
+PT J
+AU Alnabhan, MQ
+   Branco, P
+AF Alnabhan, Mohammad Q.
+   Branco, Paula
+TI Fake News Detection Using Deep Learning: A Systematic Literature Review
+SO IEEE ACCESS
+AB Nowadays, we witness rapid technological advancements in online communication platforms, with increasing volumes of people using a vast range of communication solutions. The fast flow of information and the enormous number of users opens the door to the publication of non-truthful news, which has the potential to reach many people. Disseminating this news through low- or no-cost channels resulted in a flood of fake news that is difficult to detect by humans. Social media networks are one of these channels that are used to quickly spread this fake news by manipulating it in ways that influence readers in many aspects. That influence appears in a recent example amid the COVID-19 pandemic and various political events such as the recent US presidential elections. Given how this phenomenon impacts society, it is crucial to understand it well and study mechanisms that allow its timely detection. Deep learning (DL) has proven its potential for multiple complex tasks in the last few years with outstanding results. In particular, multiple specialized solutions have been put forward for natural language processing (NLP) tasks. In this paper, we systematically review existing fake news detection (FND) strategies that use DL techniques. We systematically surveyed the existing research articles by investigating the DL algorithms used in the detection process. Our focus then shifts to the datasets utilized in previous research and the effectiveness of the different DL solutions. Special attention was given to the application of strategies for transfer learning and dealing with the class imbalance problem. The effect of these solutions on the detection accuracy is also discussed. Finally, our survey provides an overview of key challenges that remain unsolved in the context of FND.
+RI Branco, Paula/V-2452-2018
+SN 2169-3536
+PY 2024
+VL 12
+BP 114435
+EP 114459
+DI 10.1109/ACCESS.2024.3435497
+UT WOS:001297207600001
+ER
+
+PT J
+AU Paul, M
+   Zhang, RY
+   Liu, B
+   Saadai, P
+   Coakley, BA
+AF Paul, Megan
+   Zhang, Ruya
+   Liu, Bian
+   Saadai, Payam
+   Coakley, Brian A.
+TI State-level political partisanship strongly correlates with health
+   outcomes for US children
+SO EUROPEAN JOURNAL OF PEDIATRICS
+AB The Cook Partisan Voting Index (PVI) determines how strongly a state leans toward the Democratic or Republican Party in US presidential elections compared to the nation. We set out to determine the correlation between childhood health outcomes and state-level partisanship using PVI. Sixteen measures of childhood health were obtained from several US governmental agencies for 2003-2017. The median PVI for every state was calculated for the same time period. Pearson's rho determined the correlation between PVI and each health outcome. Multiple regression was also conducted, adjusting for educational attainment and percentage of non-White residents. We also compared childhood health in moderately Democratic and Republican states (5-9.9% more Democratic/Republican than the national mean) and, similarly, for extremely Democratic and Republican states (10% or more Democratic/Republican than the national mean), using Wilcoxon tests. For all 16 health measures, the median values in Democratic-leaning states represented better outcomes than Republican-leaning states (9/16 had a beta value for linear regression associated with P < 0.05). When compared to Republican states, the median values in moderately Democratic states represented better outcomes for 14 of 16 health measures (9/14 associated with P < 0.05). Similarly, the median values for extremely Democratic states represented better outcomes with regard to all 16 health measures, when compared to Republican-leaning states (8/16 associated with P < 0.05).
+   Conclusions: Democratic-leaning states displayed superior outcomes for multiple childhood health measures when compared to Republican counterpart states. Future research should investigate the significance of these findings and attempt to determine which state-level policies may have contributed to such disparate health outcomes.
+RI Wang, Lei/AGQ-4540-2022; Liu, Bian/C-4865-2011; Coakley,
+   Brian/GRF-1519-2022
+OI Coakley, Brian/0000-0002-3259-6799; Liu, Bian/0000-0001-9166-693X
+SN 0340-6199
+EI 1432-1076
+PD JAN
+PY 2022
+VL 181
+IS 1
+BP 273
+EP 280
+DI 10.1007/s00431-021-04203-y
+EA JUL 2021
+UT WOS:000673716500004
+PM 34272984
+ER
+
+PT J
+AU Beauvais, C
+AF Beauvais, Catherine
+TI Fake news: Why do we believe it?
+SO JOINT BONE SPINE
+AB Fake news dissemination has increased greatly in recent years, with peaks during the US presidential elections and the COVID-19 pandemic. Research has addressed fake news creation, consumption, sharing, and detection as well as approaches to counteract it and prevent people from believing it. This update addresses only a part of the fake news-related issues and focuses on determinants leading individuals to believe fake news, noting that rheumatology is scarcely represented. Some determinants relate to the ecosystem of media and social networks, such as the availability and rapid spread of fake news, the unselected information on platforms and the fact that consumers can become creators of fake news. Cognitive factors are important, such as confirmation bias, political partisanship, prior exposure and intuitive thinking. Low science knowledge and low educational level are also involved. Psychological factors include attraction to novelty, high emotional state, and the emotionally evocative content of fake news. High digital literacy protects against believing fake news. Sociological factors such as online communities, or echo chambers, and the role of pressure groups have been identified. The implication for practice can be deduced, including education in media literacy and warning tips, reliable journalism and fact-checking, social media regulation, partnership of media platforms' with fact-checkers, warning messages on networks, and digital detection solutions. Health professionals need to better understand the factors that cause individuals to believe fake news. Identifying these determinants may help them in their counseling role when talking to patients about misinformation.(C) 2022 Socie acute accent te acute accent franc , aise de rhumatologie. Published by Elsevier Masson SAS. All rights reserved.
+SN 1297-319X
+EI 1778-7254
+PD JUL
+PY 2022
+VL 89
+IS 4
+AR 105371
+DI 10.1016/j.jbspin.2022.105371
+EA JUN 2022
+UT WOS:000811469100001
+PM 35257865
+ER
+
+PT J
+AU Gallo, FR
+   Simari, GI
+   Martinez, MV
+   Falappa, MA
+AF Gallo, Fabio R.
+   Simari, Gerardo, I
+   Vanina Martinez, Maria
+   Falappa, Marcelo A.
+TI Predicting user reactions to Twitter feed content based on personality
+   type and social cues
+SO FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE
+AB The events in the past few years clearly indicate that the modern social, political and economical landscapes are heavily influenced by how information flows through social networks. For instance, the recent outcomes of the US presidential elections and the Brexit vote show that misinformation and otherwise influencing content can affect events of great importance. In this paper, we adopt a simplified version of the recently proposed Network Knowledge Base (NKB) model to tackle the problem of predicting basic actions that a user can take given the content of their social media feeds: either take action (by reusing content seen in their feeds or creating new one), or otherwise take no action. We propose processing raw data obtained from social media based on the framework defined by the NKB model, and then formulate an action/no action prediction task that takes as input five features (including the user's personality type and other social cues), and then go on to show-via an extensive empirical evaluation with real-world Twitter data-that machine learning classification algorithms can be successfully applied in this setting to make predictions about user reactions. The main result obtained is that, out of the features considered, personality type based on the Big-5 (also known as OCEAN) model is the most impactful; furthermore, though the rest of the features taken individually do not have a significant impact, the best results are obtained when they are all taken together. This is a first step in applying the NKB model towards understanding the effect of pathogenic social media phenomena such as fake news, how they spread via cascades, and how to counteract their ill effects. (C) 2019 Elsevier B.V. All rights reserved.
+RI Simari, Gerardo/AAQ-3113-2020; Martinez, Maria/AAG-7599-2019
+OI Falappa, Marcelo A./0000-0002-3863-2893; Martinez, Maria
+   Vanina/0000-0003-2819-4735
+SN 0167-739X
+EI 1872-7115
+PD SEP
+PY 2020
+VL 110
+BP 918
+EP 930
+DI 10.1016/j.future.2019.10.044
+UT WOS:000541153400077
+ER
+
+PT J
+AU Rizk, R
+   Rizk, D
+   Rizk, F
+   Hsu, SY
+AF Rizk, Rodrigue
+   Rizk, Dominick
+   Rizk, Frederic
+   Hsu, Sonya
+TI 280 characters to the White House: predicting 2020 US presidential
+   elections from twitter data
+SO COMPUTATIONAL AND MATHEMATICAL ORGANIZATION THEORY
+AB This nation-shaping election of 2020 plays a vital role in shaping the future of the U.S. and the entire world. With the growing importance of social media, the public uses them to express their thoughts and communicate with others. Social media have been used for political campaigns and election activities, especially Twitter. The researchers intend to predict presidential election results by analyzing the public stance toward the candidates using Twitter data. Previous researchers have not succeeded in finding a model that simulates well the U.S. presidential election system. This manuscript proposes an efficient model that predicts the 2020 U.S. presidential election from geo-located tweets by leveraging the sentiment analysis potential, multinomial naive Bayes classifier, and machine learning. An extensive study is performed for all 50 states to predict the 2020 U.S. presidential election results led by the state-based public stance for electoral votes. The general public stance is also predicted for popular votes. The true public stance is preserved by eliminating all outliers and removing suspicious tweets generated by bots and agents recruited for manipulating the election. The pre-election and post-election public stances are also studied with their time and space variations. The influencers' effect on the public stance was discussed. Network analysis and community detection techniques were performed to detect any hidden patterns. An algorithm-defined stance meter decision rule was introduced to predict Joe Biden as the President-elect. The model's effectiveness in predicting the election results for each state was validated by the comparison of the predicted results with the actual election results. With a percentage of 89.9%, the proposed model showed that Joe Biden dominated the electoral college and became the winner of the U.S. presidential election in 2020.
+RI Rizk, Rodrigue/GVT-4005-2022
+OI Rizk, Dominick/0000-0001-8078-4420; Rizk, Frederic/0000-0001-7443-7254;
+   Rizk, Rodrigue/0000-0002-4392-4188
+SN 1381-298X
+EI 1572-9346
+PD DEC
+PY 2023
+VL 29
+IS 4
+SI SI
+BP 542
+EP 569
+DI 10.1007/s10588-023-09376-5
+EA MAR 2023
+UT WOS:000959231100001
+PM 37360912
+ER
+
+PT J
+AU Zawadzki, SJ
+   Bouman, T
+   Steg, L
+   Bojarskich, V
+   Druen, PB
+AF Zawadzki, Stephanie J.
+   Bouman, Thijs
+   Steg, Linda
+   Bojarskich, Vladimir
+   Druen, Perri B.
+TI Translating climate beliefs into action in a changing political
+   landscape
+SO CLIMATIC CHANGE
+AB Political leaders can influence public beliefs about climate change, and climate beliefs can influence climate actions. But, much is still unknown about (1) whether changes in political landscapes influence public's climate beliefs and (2) the psychological process through which climate beliefs influence pro-environmental sentiments and actions. Achieving a better understanding these influences are the dual purposes of this paper, we investigated during the unique setting of the 2016 US presidential elections. First, we explored to what extent the American public's belief in the anthropogenic origins and negative impacts of climate change were influenced by the 2016 US presidential election and earliest administrative days of a climate-skeptical political leader, Donald Trump. We found Trump's influence on public climate beliefs may have increased after his election in such a way that may have polarized public climate beliefs. Compared with pre-election levels, supporters' climate beliefs grew weaker and, further, opponents' climate beliefs grew stronger after his election. Second, we tested a novel conditional mediation model that proposes climate beliefs interact to exert their influence on climate actions via moral behavioral sentiments. Specifically, we found people's origin and impact climate beliefs interact to influence climate actions by activating moral sentiments about their own environmental behavior (i.e., guilt, striving to be a better person), with the particularly weak moral sentiments reported by those with both weak belief in climate change's anthropogenic origins and its negative impacts. Moral sentiments, in turn, predicted respondents' willingness to save energy to reduce climate change and their support for the Paris Climate Agreement. These results suggest the election of climate-skeptical political leaders can impact the public's climate beliefs. Moreover, climate beliefs interact to influence the moral sentiments people feel about their own behavior, and consequently, influence their climate-friendly behavioral intentions and policy preferences.
+RI Druen, Perri/ABG-4794-2020; Bouman, Thijs/T-8880-2019; Zawadzki,
+   Stephanie/AAQ-5171-2020; Johnson Zawadzki, Steph/P-4451-2016; Steg,
+   Linda/H-6878-2014
+OI Johnson Zawadzki, Steph/0000-0002-6097-5083; Bouman,
+   Thijs/0000-0001-7940-892X; Bojarskich, Vladimir/0009-0005-7477-9306;
+   Steg, Linda/0000-0002-8375-9607
+SN 0165-0009
+EI 1573-1480
+PD JUL
+PY 2020
+VL 161
+IS 1
+SI SI
+BP 21
+EP 42
+DI 10.1007/s10584-020-02739-w
+EA JUN 2020
+UT WOS:000539515100001
+ER
+
+PT J
+AU Simari, GI
+   Martinez, MV
+   Gallo, FR
+   Falappa, MA
+AF Simari, Gerardo I.
+   Martinez, Maria Vanina
+   Gallo, Fabio R.
+   Falappa, Marcelo A.
+TI The Big-2/ROSe Model of Online Personality Towards a Lightweight Set of
+   Markers for Characterizing the Behavior of Social Platform Denizens
+SO COGNITIVE COMPUTATION
+AB The Big-5/OCEAN personality traits model, one of the central approaches to psychometrics, has been shown to have many applications over a variety of disciplines. In particular, correlations have been studied leading to effective characterization of people's behavior, and the model has become notorious for its role in the Cambridge Analytica/Facebook scandal surrounding the 2016 US presidential elections. In this paper, we develop Big-2 (or ROSe, for Relationship to Others and to Self), a model via which the personality of users of online platforms can be studied using a lightweight set of markers focused on online behavior, avoiding the major data privacy pitfalls afflicting approaches based on more powerful models that characterize personal aspects of the human psyche. Evaluation of Big-2's effectiveness is done in two parts: a quantitative evaluation on a specific prediction task and a qualitative one based on an analysis of the different ways in which the Big-2 traits can be derived from online behavior, proposing a general template to guide such efforts. Quantitative results show that our lightweight model can match or surpass the performance of Big-5 in a prediction task, while qualitative results show that it is feasible to implement the model based on the observation of basic online user behavior. Our main result is a general-purpose model that can be used to characterize the personality traits of users of online platforms in an ethical manner. Our proposed model provides a valuable tool to carry out effective and explainable analyses of online personality, avoiding the collection of unnecessary user data that would open the possibility for ethical violations.
+RI Martinez, Maria Vanina/IWL-9271-2023; Simari, Gerardo/AAQ-3113-2020
+OI Falappa, Marcelo A./0000-0002-3863-2893; Simari,
+   Gerardo/0000-0003-3185-4992
+SN 1866-9956
+EI 1866-9964
+PD SEP
+PY 2021
+VL 13
+IS 5
+BP 1198
+EP 1214
+DI 10.1007/s12559-021-09866-1
+EA JUL 2021
+UT WOS:000679276100001
+ER
+
+PT J
+AU Batarseh, FA
+   Ghassib, I
+   Chong, D
+   Su, PH
+AF Batarseh, Feras A.
+   Ghassib, Iya
+   Chong, Deri (Sondor)
+   Su, Po-Hsuan
+TI Preventive healthcare policies in the US: solutions for disease
+   management using Big Data Analytics
+SO JOURNAL OF BIG DATA
+AB Data-driven healthcare policy discussions are gaining traction after the Covid-19 outbreak and ahead of the 2020 US presidential elections. The US has a hybrid healthcare structure; it is a system that does not provide universal coverage, albeit few years ago enacted a mandate (Affordable Care Act-ACA) that provides coverage for the majority of Americans. The US has the highest health expenditure per capita of all western and developed countries; however, most Americans don't tap into the benefits of preventive healthcare. It is estimated that only 8% of Americans undergo routine preventive screenings. On a national level, very few states (15 out of the 50) have above-average preventive healthcare metrics. In literature, many studies focus on the cure of diseases (research areas such as drug discovery and disease prediction); whilst a minority have examined data-driven preventive measures-a matter that Americans and policy makers ought to place at the forefront of national issues. In this work, we present solutions for preventive practices and policies through Machine Learning (ML) methods. ML is morally neutral, it depends on the data that train the models; in this work, we make the case that Big Data is an imperative paradigm for healthcare. We examine disparities in clinical data for US patients by developing correlation and imputation methods for data completeness. Non-conventional patterns are identified. The data lifecycle followed is methodical and deliberate; 1000+clinical, demographical, and laboratory variables are collected from the Centers for Disease Control and Prevention (CDC). Multiple statistical models are deployed (Pearson correlations, Cramer's V, MICE, and ANOVA). Other unsupervised ML models are also examined (K-modes and K-prototypes for clustering). Through the results presented in the paper, pointers to preventive chronic disease tests are presented, and the models are tested and evaluated.
+OI Ghassib, Iya/0000-0002-0067-377X; Batarseh, Feras/0000-0002-6062-2747
+EI 2196-1115
+PD JUN 23
+PY 2020
+VL 7
+IS 1
+AR 38
+DI 10.1186/s40537-020-00315-8
+UT WOS:000596152000001
+PM 32834926
+ER
+
+PT J
+AU Zhukov, D
+   Otradnov, K
+   Kalinin, V
+AF Zhukov, Dmitry
+   Otradnov, Konstantin
+   Kalinin, Vladimir
+TI Fractional-Differential Models of the Time Series Evolution of
+   Socio-Dynamic Processes with Possible Self-Organization and Memory
+SO MATHEMATICS
+AB This article describes the solution of two problems. First, based on the fractional diffusion equation, a boundary problem with arbitrary values of derivative indicators was formulated and solved, describing more general cases than existing solutions. Secondly, from the consideration of the probability schemes of transitions between states of the process, which can be observed in complex systems, a fractional-differential equation of the telegraph type with multiples is obtained (in time: beta, 2 beta, 3 beta, horizontal ellipsis and state: alpha, 2 alpha, 3 alpha, horizontal ellipsis ) using orders of fractional derivatives and its analytical solution for one particular boundary problem is considered. In solving edge problems, the Fourier method was used. This makes it possible to represent the solution in the form of a nested time series (one in time t, the second in state x), each of which is a function of the Mittag-Leffler type. The eigenvalues of the Mittag-Leffler function for describing states can be found using boundary conditions and the Fourier coefficient based on the initial condition and orthogonality conditions of the eigenfunctions. An analysis of the characteristics of time series of changes in the emotional color of users' comments on published news in online mass media and the electoral campaigns of the US presidential elections showed that for the mathematical expectation of amplitudes of deviations of series levels from the size of the amplitude calculation interval ("sliding window"), a root dependence of fractional degree was observed; for dispersion, a power law with a fractional index greater than 1.5 was observed; and the behavior of the excess showed the presence of so-called "heavy tails". The obtained results indicate that time series have unsteady non-locality, both in time and state. This provides the rationale for using differential equations with partial fractional derivatives to describe time series dynamics.
+RI Kalinin, Vladimir/ABF-3843-2020
+EI 2227-7390
+PD FEB
+PY 2024
+VL 12
+IS 3
+AR 484
+DI 10.3390/math12030484
+UT WOS:001160175100001
+ER
+
+PT J
+AU Allington, D
+   McAndrew, S
+   Moxham-Hall, VL
+   Duffy, B
+AF Allington, Daniel
+   McAndrew, Siobhan
+   Moxham-Hall, Vivienne Louisa
+   Duffy, Bobby
+TI Media usage predicts intention to be vaccinated against SARS-CoV-2 in
+   the US and the UK
+SO VACCINE
+AB There is existing evidence of a relationship between media use and vaccine hesitancy. Four online questionnaires were completed by general population samples from the US and the UK in June 2020 (N = 1198, N = 3890, N = 1663, N = 2237). After controls, all four studies found a positive association between intention to be vaccinated and usage of broadcast and print media. The three studies which operationalised media usage in terms of frequency found no effect for social media. However, the study which operationalised media use in terms of informational reliance found a negative effect for social media. Youth, low household income, female gender, below degree-level of education, and membership of other than white ethnic groups were each also found to be associated with lower intentions to be vaccinated in at least two of the four studies. In all four studies, intention to be vaccinated was positively associated with having voted either for Hillary Clinton in the 2016 US presidential elections or for Labour Party candidates in the 2019 UK general election. Neither of the UK studies found an association with having voted for Conservative Party candidates, but both US studies found a negative association between intention to be vaccinated and having voted for Donald Trump. The consistent finding of greater intention to be vaccinated among users of legacy media but not among users of social media suggests that social media do not currently provide an adequate replacement for legacy media, at least in terms of public health communication. The finding of a negative association with social media in the study which measured informational reliance rather than frequency is consistent with the view that uncritical consumption of social media may be acting to promote vaccine hesitancy. (C) 2021 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http:// creativecommons.org/licenses/by/4.0/).
+RI Allington, Daniel/AAO-6928-2021
+OI Allington, Daniel/0000-0002-5378-0552; Moxham-Hall, Vivienne
+   Louisa/0000-0001-7911-5799
+SN 0264-410X
+EI 1873-2518
+PD APR 28
+PY 2021
+VL 39
+IS 18
+BP 2595
+EP 2603
+DI 10.1016/j.vaccine.2021.02.054
+EA APR 2021
+UT WOS:000642189300017
+PM 33810905
+ER
+
+PT J
+AU Warraich, HJ
+   Kumar, P
+   Nasir, K
+   Maddox, KEJ
+   Wadhera, RK
+AF Warraich, Haider J.
+   Kumar, Pankaj
+   Nasir, Khurram
+   Maddox, Karen E. Joynt
+   Wadhera, Rishi K.
+TI Political environment and mortality rates in the United States, 2001-19:
+   population based cross sectional analysis
+SO BMJ-BRITISH MEDICAL JOURNAL
+AB Objective To assess recent trends in age adjusted mortality rates (AAMRs) in the United States based on county level presidential voting patterns. DESIGN Cross sectional study. SETTING USA, 2001-19. PARTIcIPANTS 99.8% of the US population. MAIN OUTcOME MEASURES AAMR per 100 000 population and average annual percentage change (APC). METHODS The Centers for Disease Control and Prevention WONDER database was linked to county level data on US presidential elections. County political environment was classified as either Democratic or Republican for the four years that followed a November presidential election. Additional sensitivity analyses analyzed AAMR trends for counties that voted only for one party throughout the study, and county level gubernatorial election results and state level AAMR trends. Joinpoint analysis was used to assess for an inflection point in APC trends. RESULTS The study period covered five presidential elections from 2000 to 2019. From 2001 to 2019, the AAMR per 100 000 population decreased by 22% in Democratic counties, from 850.3 to 664.0 (average APC-1.4%, 95% confidence interval-1.5% to-1.2%), but by only 11% in Republican counties, from 867.0 to 771.1 (average APC-0.7%,-0.9% to-0.5%). The gap in AAMR between Democratic and Republican counties therefore widened from 16.7 (95% confidence interval 16.6 to 16.8) to 107.1 (106.5 to 107.7). Statistically significant inflection points in APC occurred for Democratic counties between periods 2001-09 (APC-2.1%,-2.3% to-1.9%) and 2009-19 (APC-0.8%,-1.0% to-0.6%). For Republican counties between 2001 and 2008 the APC was-1.4% (-1.8% to-1.0%), slowing to near zero between 2008 and 2019 (APC-0.2%,-0.4% to 0.0%). Male and female residents of Democratic counties experienced both lower AAMR and twice the relative decrease in AAMR than did those in Republican counties. Black Americans experienced largely similar improvement in AAMR in both Democratic and Republican counties. However, the AAMR gap between white residents in Democratic versus Republican counties increased fourfold, from 24.7 (95% confidence interval 24.6 to 24.8) to 101.3 (101.0 to 101.6). Rural Republican counties experienced the highest AAMR and the least improvement. All trends were similar when comparing counties that did not switch political environment throughout the period and when gubernatorial election results were used. The greatest contributors to the widening AAMR gap between Republican and Democratic counties were heart disease (difference in AAMRs 27.6), cancer (17.3), and chronic lower respiratory tract diseases (8.3), followed by unintentional injuries (3.3) and suicide (3.0). cONcLUSION The mortality gap in Republican voting counties compared with Democratic voting counties has grown over time, especially for white populations, and that gap began to widen after 2008.
+RI Nasir, Khurram/A-2317-2008
+OI Kumar, Pankaj/0000-0002-5580-9144
+SN 0959-535X
+EI 1756-1833
+PD JUN 7
+PY 2022
+VL 377
+AR e069308
+DI 10.1136/bmj-2021-069308
+UT WOS:000811708500006
+PM 35672032
+ER
+
+EF
+SrcDatabase-来源库: 期刊
+Title-题名: 特朗普和拜登兑现竞选承诺的比较分析
+Author-作者:郭馨怡
+Organ-单位: 北京外国语大学国际关系学院
+Source-文献来源: 当代美国评论
+Keyword-关键词: 美国总统选举;竞选承诺;特朗普政府;拜登政府;美国政治
+Summary-摘要: 共和党籍前总统特朗普和民主党籍现总统拜登将大概率代表两党在2024年美国总统选举中展开角逐。分析两者的执政表现可知，二人兑现竞选承诺的意愿、能力、侧重领域和结果均存在较大差异，拜登兑现竞选承诺的整体情况略优于特朗普。特朗普重视以减税、反移民和反全球化为代表的右翼民粹主义政治承诺，兑现贸易和外交领域承诺的情况最佳，对振兴制造业的诚意明显不足。拜登侧重推动“再工业化”的经济政策和加强气候治理，与国会合作通过三大支柱性立法，并为此在社会公平议程方面做出了较多让步。总体来说，特朗普兑现竞选承诺相对流于形式、浮于表面，经常出现夸大许诺、兑现打折的情况；拜登则诚意较足、较为务实，能够通过多方联动重点兑现关键承诺。二者兑现竞选承诺的情况主要受到美国政治极化、政党意识形态差异和其个人政策偏好、性格能力等因素的综合影响。
+
+Title-题名: 美国国内政治影响对外经济制裁政策研究
+Author-作者:庞琴;郑娟
+Organ-单位: 中山大学国际关系学院;中山大学区域国别研究院
+Source-文献来源: 国际政治科学
+Keyword-关键词: 经济制裁;制裁强度;美国政治;政治极化
+Summary-摘要: 本研究探讨美国总统和议员以及不同党派议员之间的博弈如何影响美国对外经济制裁策略的选择?通过建立相关博弈模型,本研究发现,第一,总统在总统选举年具有低强度制裁的政策偏好,但是在中期选举年具有高强度制裁的政策偏好。而议员则在两个时期都具有高强度制裁的偏好。总统-议员双方博弈的结果是总统选举年出台的制裁政策强度偏低而中期选举年采取的制裁政策强度偏高。第二,上述变化趋势在军事安全相关议题的制裁中比在民主人权等其他议题的制裁中更显著。第三,在美国国会内部,一般而言,民主党更偏好高强度贸易制裁,而共和党则更偏好低强度的金融制裁。当国会两院多数党不一致时,两党博弈的结果是制裁法案强度居中,且随着国会分裂的时间越久,制裁法案的数量出现下降。本研究的创新之处在于突破现有的“外交政策分析”和“国际政治经济学”两种理论模型,提出“国内政治博弈”模型,即以总统和议员的政策偏好及其相互博弈为基础,分析美国对外经济制裁策略的形成机制。研究结果对于当前应对美国制裁具有实践意义。
+Title-题名: 政治极化背景下美国白人工薪阶层与美国总统选举
+Author-作者:祁玲玲
+Organ-单位: 南京大学政府管理学院;南京大学—霍普金斯大学中美文化中心
+Source-文献来源: 国外理论动态
+Keyword-关键词: 白人工薪阶层;“被遗忘的人”;美国总统选举;政治极化;保守主义
+Summary-摘要: 美国国内政治正经历复杂的结构性变化，理解美国社会中那群沉默的“被遗忘的人”——白人工薪阶层的基本特质与政治倾向是了解当前美国总统大选逻辑的关键之一。白人工薪阶层是罗斯福年代“新政联盟”分崩离析的结果，是尼克松口中“沉默的大多数”,是美国保守主义潜流的承载者。“美国选举研究”项目的数据分析表明，美国白人工薪阶层的政治参与远低于其他群体，更加倾向于反对政治正确的保守主义。白人工薪阶层已经日趋与民主党疏离，正成为共和党的重要支持力量。阶层投票仍然是理解当前政治极化中的美国总统选举不可或缺的视角。
+Title-题名: 美国总统选举中的摇摆州:2000—2020年
+Author-作者:郭馨怡;谢韬
+Keyword-关键词: 美国总统选举;摇摆州;两党制;铁锈带;阳光地带
+Summary-摘要: 摇摆州是美国特有的政治现象,源于“胜者全得”的选举人团制度。近年来,美国政治极化加剧,总统选举中的小比分胜利频发,两党均无力组建稳定的全国性选民联盟,摇摆州的重要性大幅提高。本文在定义和归纳21世纪以来美国主要摇摆州的基础上,深入探究了摇摆州的形成机制。研究发现,摇摆州内实为一种“弱多数党—强少数党”的两党制,少数党实力强大,以至于随时有可能取代多数党在选举中胜出。这种州级政党体制的改变主要形成于两个方面:第一,州内人口结构的变化,即“变化的选民”;第二,州内选民政党偏好和投票行为的改变,即“变动的选票”。当前美国摇摆州主要集中于两个区域,分别是因拉美裔移民大举涌入逐渐由红转蓝的南部和西南部“阳光地带”,以及因制造业工人政党认同改变而由蓝转红的中西部“铁锈带”。种种迹象表明,“铁锈带”将在一段时期内继续摇摆,但“铁锈带”各州的具体政治走向取决于其州内经济状况;未来“阳光地带”可能会出现更多摇摆州,并逐渐成为影响美国选举政治的核心地带。
+Title-题名: 2020年美国总统选举中的“犹太出走”悖论
+Author-作者:房宇馨;谢韬
+Keyword-关键词: 2020年大选;“犹太出走”;美国选举政治;“关键少数”;反犹主义
+Summary-摘要: 犹太裔在美国政治生活中的地位举足轻重,这种影响力在美国总统选举中表现得尤为突出。美国犹太裔选民向来是民主党和共和党竭力拉拢的对象,在2020年大选中也不例外。为争取犹太裔的选票,特朗普任内曾多次在中东问题上选择偏袒以色列。但计票结果显示,2020年美国总统选举并未出现中间派或左派犹太裔选民明显转向支持共和党的情况,即没有出现所谓的"犹太出走"现象。除了犹太裔选民一贯支持民主党的政党偏好和普遍持自由主义立场外,犹太裔选举悖论的出现是美国犹太社团日渐疏远母国、新冠疫情蔓延、反犹主义抬头三项因素综合影响的结果。
+Title-题名: 宗教与2020年美国大选
+Author-作者:徐以骅
+Organ-单位: 复旦大学国际关系与公共事务学院
+Source-文献来源: 世界宗教研究
+Keyword-关键词: 美国大选;基督教福音派;特朗普的“宗教遗产”
+Summary-摘要: 2020年美国大选是美国总统选举史上最富戏剧性的选举之一,两大党候选人不仅在政治立场、执政理念和行事风格上大相径庭,而且在宗教归属和宗教倾向上迥然不同。并不笃信宗教的特朗普是美国有史以来"最致力于吸引基督教福音派的总统",而在宗教右翼最聚焦的堕胎、性少数群体权利等议题上持自由派立场的拜登则以虔诚天主教徒著称。在本次大选中,2016年把特朗普送上总统宝座的基督教福音派以及各种宗教保守派的神奇不再,再度引起了关于基督教福音派在政治上走下坡路,甚至"白人基督教美国的终结"等话题。本文根据相关民调数据,对本次大选在宗教领域的基本特点进行分析,进而讨论特朗普政府留下的"宗教遗产"以及大选后美国宗教政治的大致走向。
+Title-题名: 美国选举人团制：历史演变、制度缺陷和改革
+Author-作者:张业亮
+Organ-单位: 清华大学中美关系研究中心
+Source-文献来源: 美国研究
+Keyword-关键词: 美国政治;总统选举;选举人团制;制度缺陷;改革
+Summary-摘要: 选举人团制是美国最基本和最重要的选举制度之一,也是最具争议的宪法制度之一。选举人团制是制宪会议上联邦派和反联邦派之间以及大小州之间妥协的产物,但联邦和州的一系列法律以及政党制度和活动对其形成和运作也产生了巨大的影响,它们共同构成了现有的选举人团制。选举人团制存在诸多内在的制度缺陷和政治缺陷。因此自其创立以来,废除和改革选举人团制的呼声不断。由于受到提出和通过宪法修正案的复杂程序和激烈的党派斗争的阻碍,废除和改革选举人团制的努力步履艰难。在未来相当长的时期内,美国围绕选举人团制的争议仍将持续。
+Title-题名: 美国“Z世代”大学生政治认同两极化及其原因
+Author-作者:周顺
+Organ-单位: 上海政法学院政府管理学院
+Source-文献来源: 国际展望
+Keyword-关键词: 政治认同;极化;“Z世代”大学生;美国信念
+Summary-摘要: 美国"Z世代"大学生的政治认同呈现明显两极化、主体向左的趋势。一方面,这种两极化与两党意识形态、政策立场保持高度一致;另一方面,两极化也显示出新的代际特征,即鲜明的道德色彩与强烈的对抗性。从社会心理学角度看,政治认同两极化的原因包括信念激情期的周期性再现、美国大学校园成为政治认同极化的孵化器、安全空间建构与微侵犯观念隔断大学不同政见者的沟通与交流、社交媒体强化"Z世代"同一阵营内部的政治认同等。"Z世代"大学生以"对抗共同敌人"的方式参与2020年美国总统选举并使投票率创下新高,这成为其政治认同极化公开表达的明证。这一态势引起了专家、学者等的警惕,重建大学校园政治生态成为美国社会的共识。大学生政治认同两极化也给未来的中美关系增添了不确定因素,社交媒体的运用将使"Z世代"大学生对华民意更具敌意,受害者心理将使美国舆论在人权等相关问题上对中国持更负面的评价,安全空间防线将使中国对外文化传播受到进一步干扰。"Z世代"大学生政治认同两极化趋势及大学校园政治生态将是评估美国政治未来走向的重要参考因素。
+Title-题名: “美国实验”与“美国危机”——特朗普现象背后的总统选举制度
+Author-作者:王希
+Organ-单位: 美国宾夕法尼亚州印第安纳大学历史系
+Source-文献来源: 文化纵横
+Keyword-关键词: 美国总统选举;两党制;美国民主
+Summary-摘要: <正>"美国危机"2020年充满危机,注定要成为具有划时代意义的一年。未来的历史学家将如何书写它,我们不得而知。但有一点可以确信:我们在2020年体验了一场政治范式的转换。对于美国人来说,危机和范式转换的感觉都更为真切。2020年是美国历史上"危机丰收"的一年,美国在今年同时遭遇了四大危机——新冠疫情危机(百年不遇的全国性公共卫生危机)、经济危机(20世纪30年代大萧条以来最严重的经济衰退)、种族主义引发的社会危机以及环保危机。
+Title-题名: 2020年总统选举与美国的政治衰败
+Author-作者:谢韬
+Source-文献来源: 当代世界
+Keyword-关键词: 美国总统选举;美国政治衰败;老人政治;身份政治;特朗普
+Summary-摘要: 2020年美国总统选举充分表明,美国正在经历政治衰败。这种衰败至少体现在四个方面:总统选举出现了明显的逆向代际更替,尤其是在民主党党内体现得更加明显,其近两届主要总统候选人和最终提名人的年龄越来越大;尽管桑德斯两次竞选民主党总统提名人均以失败告终,但其所宣扬的民主社会主义却受到大批年轻选民的狂热支持,这背后的深层次原因是全球化时代美国年轻人所面临的结构性经济困境和美国政治的阶层固化;在美国特色的两党制下,第三党几乎没有任何获胜的可能,其结果要么是桑德斯这样的极左候选人被民主党建制派压制,要么是特朗普这样的"另类"候选人绑架整个共和党;身份政治等争议性议题导致美国社会深陷分裂,而这种分裂的后果必然体现为政治上的极化并引发政治暴力。即使拜登政府上台,也无法在短期内消除政治衰败。
+Title-题名: 美国印太盟友对华政策差异将持续
+Author-作者:方圆圆;黄贝
+Organ-单位: 清华大学国际关系研究院中外关系定量预测组
+Summary-摘要: <正>新冠肺炎疫情暴发后,美国印太盟友成为美国政府在疫情应对、网络安全、意识形态等问题上对华对抗的重点拉拢对象。然而,根据清华大学国际关系研究院中外关系定量预测组观察,2020年1月至6月,美国印太盟友在对华政策上并未达成一致,其对华关系呈现出明显差异性,可分为恶化组、波动组及平稳组。(1)预测组认为,美国印太盟友在对华政策上的这一差异性将在2020年11月美国总统大选后一年内持续。
+Title-题名: 美国抗疫的主要问题与哲学审视
+Author-作者:赵士发
+Organ-单位: 武汉大学哲学学院
+Source-文献来源: 湖北社会科学
+Summary-摘要: <正>随着新冠肺炎疫情在世界范围内的不断蔓延,世界215个国家卷入到这场战疫中来。这场战疫的规模和影响实际上已经称得上人类面临的"第三次世界大战"。让人们明确这场战疫的定位,有助于全人类团结起来。同时,也要对这场战争有个明确的定性,在性质上它是一场人类与自然准确地说是与病毒之间的战争。这个定性有助于人类分清敌、友,从而减少人类的内耗,防止付出不必要的牺牲
+Title-题名: 美国是否进入老人政治新时代
+Source-文献来源: 人民论坛
+Keyword-关键词: 总统提名人;美国大选;老龄化
+Summary-摘要: 四位70多岁的老人同台竞争民主党总统提名人,而寻求连任的共和党在任总统也70岁有余,这是美国总统选举政治200多年来难得一见的现象。本文以1896—2016年两党总统提名人为样本,对美国总统选举政治中的年龄因素进行分析。研究表明,50—59岁的候选人获得总统提名的概率最大,这在民主党表现尤为明显;共和党提名人的平均年龄比民主党提名人的平均年龄大4岁左右;年轻的民主党提名人和年老的共和党提名人在大选中获胜的几率明显更高。最后探讨了桑德斯和特朗普的激进主义为何结局不同,并指出总统候选人老年化对美国政治的负面影响。
+Title-题名: 美国与台湾地区领导人选举对两岸关系影响分析:新古典现实主义的视角
+Author-作者:黄继朝;叶晓迪
+Organ-单位: 深圳大学社会科学学院;广东外语外贸大学国际关系学院
+Source-文献来源: 台湾研究集刊
+Keyword-关键词: 美国选举;台湾地区选举;两岸关系;新古典现实主义
+Summary-摘要: 美国总统选举与台湾地区领导人选举将如何形塑一段时期内的两岸关系走向,是本文试图探讨的核心问题。对于此问题,既有研究从美国与台湾地区各自的视角切入,形成了美国选举对台政策的"直接影响"和"间接影响",以及台湾地区选举对"美国对台政策选择"和"台湾当局两岸政策选择"的影响四个解释视角。然而,既有研究的视角大都仅聚焦于单方内部选举对两岸关系的冲击,却忽略了美国与台湾地区同一选举周期所产生的联动效应。考虑到美台两地的选举周期具有一致性,这种联动效应对理解两岸关系的走向应具有重要的参考意义。有鉴于此,本文在修正新古典现实主义的基础之上,以中国的持续崛起为前置性变量,以美国与中国台湾地区的政治精英共识和社会共识的一致/分裂为自变量,构建一个能够连接美台领导人选举的分析框架。同时,为了展现其中的联动效应,本文还援引了2016年的美台领导人选举作为"解释性案例",用以验证本文分析框架的运作逻辑。最后,结论部分基于分析框架对美台2020年选举周期做了四种组合的预测,并辨析它们对两岸关系的影响程度。
+Title-题名: 美国总统选举中“摇摆州”的两党争斗——以威斯康星州为例
+Author-作者:周淑真;郭馨怡
+Organ-单位: 中国人民大学国际关系学院;中国人民大学国际关系学院;美国威斯康星大学麦迪逊分校
+Source-文献来源: 当代世界与社会主义
+Keyword-关键词: 美国总统选举;摇摆州;政党争斗;选民结构
+Summary-摘要: 总统选举是美国政党政治的重要主题。近年来,美国民主、共和两党分歧巨大、斗争激烈。政党极化成为美国政治的重要现象,民意互为对立,鸿沟日益扩大。两党实力相对均衡、选情胶着的"摇摆州"集中体现了这一特点,威斯康星州就是一个典型代表。该州的共和党近年来通过严格的选民身份法和瓦解有组织的工会等一系列选举制度改革,削弱了民主党的选民基础和实力,巩固并扩大了自身在选举中的相对优势,民主党基本盘萎缩,共和党所获选票比例相对上升,最终在"胜者全得"的制度下,2016年特朗普在该州胜出。从摇摆州两党选民的力量对比,可以分析选民群体结构的变化及其原因,进而透视美国政党极化和争斗的政治逻辑。
+Title-题名: 一些美国媒体已经走得太远
+Author-作者:乔新生
+Organ-单位: 中国人权研究会;海峡两岸关系法学研究会;中南财经政法大学
+Source-文献来源: 青年记者
+Summary-摘要: <正>纽约时报试图把自己当作政治组织,影响或者改变美国的政治走向,以失败告终。最近,美国总统特朗普明确表示,不希望在白宫看到纽约时报。这是美国总统和美国知名新闻媒体纽约时报彻底决裂的标志性事件。2016年美国总统选举期间,纽约时报旗帜鲜明地支持美国民主党总统候选人希拉里·克林顿,猛烈抨击房地产商人特朗普。这种在总统选举中公然表明政治态度的做法,说明纽约时报已经彻底抛弃了在政治生活中保持中立的立场。特朗普当选总统之后,毫不犹豫地将纽约时报列为批判的对象,不分场合讽刺挖苦纽约时报。
+Title-题名: 罗马人创立的双重多数制及其对后世的影响
+Author-作者:徐国栋
+Organ-单位: 厦门大学法学院
+Source-文献来源: 甘肃社会科学
+Keyword-关键词: 罗马法;双重多数制;美国宪法;选举人团;保护少数;特定多数
+Summary-摘要: 双重多数制是罗马人原创的票决制度,适用于库里亚大会、百人团大会和部落大会的票决,它要求投票人的多数和此等投票人从属的地域都支持一个决定,此等决定才能获得通过。其精神是:一个决定,不仅应获得多数人的赞成,而且也应获得多数地方的赞成,这样就避免了赞成者过分地集中在某些地区,有关决定的接受普遍性不足的情况。该制度通过苏格兰移民詹姆斯·威尔逊的途径被美国宪法继受,采用它来选举美国总统,以迫使候选人在竞选时对各州均匀用力,给小州发言权,由此让国家成为一个整体。但美国人对这一制度进行了自己的改造,并运用于修宪程序,以保障宪法的稳定性。瑞士、澳大利亚等国也采用双重多数制作为修宪程序。欧盟采用双重多数制作为决定中等重要事项的程序。此等事项必须取得赞同国家数和赞同国家人口数两个多数才能通过,以防止了大国操纵和控制欧盟,也避免了众多小国联合起来阻止一项合理政策的通过。双重多数制可防止多数人的暴政、保护少数,对于中国具有借鉴价值。
+Title-题名: 消灭资本主义还是挽救资本主义？——论美国近代民主社会主义的兴起
+Author-作者:刘玉安
+Organ-单位: 山东大学当代社会主义研究所
+Source-文献来源: 人民论坛·学术前沿
+Keyword-关键词: 民主社会主义;罗斯福新政;资本主义
+Summary-摘要: 从2016年总统选举开始,民主社会主义在美国政坛悄然兴起。自称是社会主义者的佛蒙特州联邦参议员伯尼·桑德斯,是美国有史以来第一个公开打起社会主义旗帜的总统候选人,他为什么能够获得广泛的社会支持?追根溯源,美国当下的民主社会主义思潮与罗斯福新政是一脉相承的。近代美国总统,从罗斯福、杜鲁门、肯尼迪、约翰逊,一直到克林顿、奥巴马,他们都试图对传统资本主义制度进行改良,而且也取得了一定的成效,从而保证了资本主义生产方式在美国的持续运转。他们虽然都只是在修补、改良或者说是在挽救资本主义,但毕竟是在推动历史的发展。资本主义生产方式在目前的美国,还有它存在的理由,它毕竟还在创造着巨大的、新的生产力,而这与民主社会主义对它的改良、限制密不可分。因此,民主社会主义在美国同样有它存在的理由,这也是桑德斯敢于公开打起社会主义旗帜的根本原因。
+Title-题名: 美国选举人团制度的不民主性分析
+Author-作者:聂露
+Organ-单位: 中国政法大学政治与公共管理学院
+Source-文献来源: 教学与研究
+Keyword-关键词: 选举人团制度;民主;美国总统选举
+Summary-摘要: 本文从制度规则、政治产出和社会评价三个方面,全方位分析了美国选举人团制度不民主性的表现与逻辑。在制度规则方面,制宪会议造就了该制度混合而非民主的本质,赢者全得规则民主性较低,选举人功能失效降低了民主质量。在政治产出上,选票不平等和关键州问题反映了政治平等的欠缺,少数票总统问题说明民主合法性不足,投票率走低意味着选民的消极参与。在改革选举制度的争论中,支持者要求更高的选举民主,反对者提出保守意见。
+Title-题名: 当代美国媒体变革与核心价值观传播
+Author-作者:陈文旭;舒高磊
+Organ-单位: 南开大学马克思主义学院
+Source-文献来源: 南开学报(哲学社会科学版)
+Keyword-关键词: 媒体变革;核心价值观;新兴媒体;批判审视
+Summary-摘要: 美国媒体经历了百余年的快速变革后,如今表现出产业格局重新洗牌、发展空间扩增的新趋势,数字化改革、全媒体融合成为主题,信息形态与传播路径更加立体多样。媒体变革形成美国思想文化与核心价值观传播的新环境,在2016年总统选举中,美国政党和政府利用新兴媒体与社会生活深度融合、政治传播生态发生转变的现实条件,将新兴媒体打造成精神价值和政治文明的宣示平台。美国借助新兴媒体传播核心价值观的过程,体现其宣传格局的调整、新舆论场域的形成和宣传理念的转变,但美国价值观宣传的政治性和资产阶级"新闻自由"的虚伪性特征并未改变。
+Title-题名: 美国社会中“政治正确”现象的发展及其最新演变
+Author-作者:张琦
+Organ-单位: 中国社会科学院研究生院
+Source-文献来源: 国际论坛
+Keyword-关键词: 政治正确;语言表达;歧视;2016年总统选举;反政治正确
+Summary-摘要: 美国社会中的"政治正确"现象发端于20世纪60年代,经过数十年的发展,它演变为了一种广泛存在于公共生活领域,以尊重少数族裔、女性、同性恋相关群体、持不同信仰者为主要体现的文化现象。在2016年美国总统选举中,"政治正确"受到特朗普等参选人的猛烈抨击,美国社会中"反‘政治正确’"活动随即呈现出愈演愈烈的趋势。上述演变反映出随着近年来美国政治的不断衰败,国内政治重心的日益下沉,以及在具体实践中的"矫枉过正"等问题,"政治正确"在美国社会中的约束力与重要性都出现动摇;而随着特朗普的执政,以及美国国内政治环境的变迁,"政治正确"现象将会迎来更大的挑战。
+Title-题名: 两党制与美国总统选举的“无选择困境”
+Organ-单位: 北京大学历史学系
+Source-文献来源: 史学理论研究
+Summary-摘要: <正>2016年美国总统大选吸引了全世界的注意力。地产商人唐纳德·特朗普以"圈外人"身份参选,虽然其竞选在诸多方面"政治不正确",但却先后赢得共和党初选和大选。选举结果令许多人感到意外,也激发了学界重启关于美国选举制度利弊的讨论。特朗普的当选,看似偶然,其实不然,背后有深刻的历史与现实原因。我曾试图从美国政治运
+Title-题名: 特朗普上台是否意味美国民主的衰落——兼与吴冠军教授商榷
+Author-作者:阮思余
+Organ-单位: 华南师范大学政治与行政学院
+Source-文献来源: 探索与争鸣
+Keyword-关键词: 美国大选;西方民主;民主衰落;两党政治;三权分立;包容性民主
+Summary-摘要: 特朗普上台确实意味着美国选举民主有所变化,但是不能忽视这些变化背后的不变内容。这些内容主要包括美国两党政治结构、三权分立的民主体制,以及美国人追求伟大总统的梦想。由此,也就无法断言,特朗普上台意味着以美国为代表的西方民主出现了严重危机,甚至西方民主已经走向衰落。恰恰相反,西方民主的根基依然深厚。不论是从西方民主的政治根基及其自我创新、自我修复能力,还是从西方民主的被广泛学习、吸收、借鉴来看,西方民主的生命力依然旺盛。
+Title-题名: 特朗普为何当选?——对2016年美国总统大选的历史反思
+Organ-单位: 北京大学历史学系;美国宾夕法尼亚州印第安纳大学历史系
+Keyword-关键词: 美国政治;总统选举;2016;特朗普;极化政治;反建制;选民重组;价值观分离
+Summary-摘要: 2016年美国总统大选是近年来争夺最激烈、火药味最浓、政治分化最严重的一次大选。特朗普作为一个"圈外人",在选前并不被媒体和民意测验看好,但却意外地赢得了大选。促成特朗普当选的原因是多方面的,包括总统选举进程的"专业化"与"精英化"操作、极化政治的发展与体制僵局的常态化、全球化时代美国价值观的分离与对峙,以及由"权力重组"和"权利重组"衍生而来的"选民重组"。这些因素深刻地影响了2016年美国总统大选的结果,并给21世纪的美国民主政治带来了严峻的挑战。
+Title-题名: 传统新闻业、社交媒体与“稀释”的民主——2016美国总统选举中的新闻乱象与民主困境
+Author-作者:姜华
+Organ-单位: 华东师范大学传播学院
+Source-文献来源: 新闻记者
+Keyword-关键词: 新闻业;社交媒体;民主;民粹
+Summary-摘要: 2016年美国总统选举以出人意料的结局震惊世界。与大多数人认为"特朗普赢在社交媒体"的看法不同,本文认为,除却政治、经济、社会诸因素,唐纳德·特朗普的胜选,是美国总统选举制、传统主流媒体与社交媒体共同作用的结果。在本次总统选举过程中传统新闻业表现出的进退失据,社交媒体有意无意地推动虚假新闻广泛传播,这些新闻乱象使美国新闻业偏离了"民主看门狗"的核心角色,对民主制的正常运作造成了困扰。
+Title-题名: 从美国现状看西方国家政党政治的新变化、新特点
+Author-作者:周淑真
+Organ-单位: 中国人民大学国际关系学院;中国统一战线理论研究会政党理论研究基地
+Keyword-关键词: 政党政治;美国总统选举;政党极右化
+Summary-摘要: 近年来,以美国为代表的西方国家政党政治正在发生着重大变化,主要表现为政党的竞争方式和竞争手段,新旧政权交替的方式,传统的左、右翼政党发展态势,政党政治的运行机制的变化。旧的政党体系衰落导致传统的左、右翼政党一蹶不振,执政党脱离现实社会和下层民众,政党之间的对立对抗导致政治衰败,是当今以美国为代表的西方国家政党政治发生重大变化的原因和内在逻辑。
+Title-题名: 社交媒体公共关系对美国大选的影响
+Author-作者:焦妹
+Organ-单位: 上海外国语大学国际工商管理学院公共关系学系
+Source-文献来源: 行政管理改革
+Keyword-关键词: 社交媒体;美国;总统大选;民意
+Summary-摘要: 跌宕起伏的2016年美国总统大选落下尘埃,两党候选人的媒体造势手段令人眼花缭乱,其中社交媒体上的公共关系活动对于选举结果是否有影响?如果有,影响程度是怎样的呢?本文从梳理社交媒体在美国的发展和现状入手,分析了美国政治家如何利用社交媒体开展公共关系活动,进而探讨了社交网站的应用和公民的政治参与之间的联系,结论是尽管社交媒体提高了民众对政治的兴趣和参与度,但社交媒体上的公关活动并没有改变民意。
+Title-题名: 美国贸易保护主义真相与误读
+Author-作者:卡伦·亨德里克斯;王宇
+Organ-单位: 美国丹佛大学;中国人民银行研究局
+Source-文献来源: 金融发展研究
+Keyword-关键词: 贸易保护;自由贸易;自由贸易协定;自由主义
+Summary-摘要: 无论社会精英还是普通百姓,老年选民还是青年选民,大多数美国人依然以积极的态度看待自由贸易和自由贸易协定。要正确看待美国贸易保护主义,需要正确理解自由贸易与自由贸易协定,以及自由贸易与自由主义。2016年美国总统选举中的保护主义抬头是财政政策没有弥合自由贸易和技术进步对劳动力市场的冲击导致的。
+Title-题名: 新闻专业主义视阈中选举报道的“是”与“非”——以2016年美国总统大选为例
+Author-作者:宋微
+Organ-单位: 南昌大学新闻与传播学院
+Source-文献来源: 新闻战线
+Keyword-关键词: 新闻专业主义;真实性;客观性;平衡报道;建设性
+Summary-摘要: 从新闻专业主义视角来看,媒体在2016年美国大选的报道中遵循了新闻真实性原则,承担了维护社会规范的职责,但民调的真实性、新闻文本的客观性和新闻报道的建设性却存在问题。加强与底层民众的沟通、注意新闻标题和文本词语的客观性、增设固定栏目平衡不同党派的报道、扩大建设性新闻报道的比例是媒体在这次大选报道中所要汲取的教训。
+Title-题名: 特朗普时代中美关系将走向何方
+Author-作者:林宏宇
+Organ-单位: 华侨大学国际关系学院
+Keyword-关键词: 特朗普;中美关系;先抑后扬
+Summary-摘要: 2016年大选将在美国总统选举史上留下非常特殊的一笔。一位无任何公职、无任何从政经验、无任何外交政策经历的地产大亨当选为美国总统。如何预测和研判这样一位"三无"总统的上台对美国外交战略走向,及其对大国关系的影响,是一件非常困难的事情。从美国总统选举政治及其对美国外交政策影响规律的视角,或可窥见特朗普的上台对美国外交战略与中美关系的影响。
+Title-题名: 特朗普获选美国总统的原因分析
+Author-作者:夏庆宇
+Organ-单位: 复旦大学政治学博士后流动站
+Source-文献来源: 思想政治课教学
+Keyword-关键词: 美国;民主;总统大选;特朗普
+Summary-摘要: 本文试图从学术角度梳理出促成特朗普当选美国总统的原因链条,从浅到深。主要原因包括:美国的选举制度实行的是州与州之间的民主而非直接民主,特朗普实现了"农村包围城市",多数普通民众通过民主击败了少数精英,美国当前社会问题较为突出而特朗普恰恰回应了有关社会问题,特朗普因其极端主张而激发了拥护者的投票热情,2016年总统选举堪称美国长期以来的本色——信仰基督教的白人国家——的一次复兴。
+Title-题名: 热点排行
+Source-文献来源: 科技导报
+Summary-摘要: <正>(新闻时段:2016-12-16至2016-12-30;排行依据:遴选出的30家核心媒体报道频次)1《Science》公布201610大进展[核心媒体报道频次:30/30]12月25日,《Science》公布了2016年10大突破,排名不分先后。此次评选出的10大进展分别是:引力波被探测、邻罟系外行星现行踪、人工智能围棋场显身手、杀死老细胞永葆年轻、会"读心"的娄人猿、计算软件设计人工蛋白、实验室制出小鼠印子、单次非洲移民潮让人娄走向全球、纳米孔基因测序技术领风骚、超透镜带来大前景。
+Title-题名: 从大选看美国政治的问题、形象和走向
+Author-作者:孙来斌
+Organ-单位: 武汉大学马克思主义学院
+Source-文献来源: 武汉大学学报(哲学社会科学版)
+Keyword-关键词: 美国总统选举;美国民主政治;低效政治;国际形象;发展趋势
+Summary-摘要: 这届美国总统大选为我们观察美国政治运行状况提供了难得的窗口。特朗普的胜选看似出人意料,实则有其社会基础,这就在于他紧紧抓住了美国民众对金钱政治、党争政治、低效政治等政治流弊的不满心理。这届大选颠覆了国际公众对美国政治的传统印象,褪去了美国民主的制度光环,拉低了其国际形象。特朗普的个人风格将会给美国政治带来一些新的变化,但他将因各种掣肘而不大可能改变美国政治的基本走势,在国内政策上终将回归共和党建制派,在外交政策上终将走向务实道路。
+Title-题名: 总统选举结果是对美国媒体的当头棒喝
+Organ-单位: 中南财经政法大学
+Summary-摘要: <正>美国选民之所以选择特朗普作为美国总统,是因为他们不仅抛弃了美国民主党总统候选人,而且抛弃了美国的主流媒体。美国总统选举尘埃落定,美国媒体却满面污垢。部分中国学者认为,美国总统选举中媒体表现失态打破了人们对美国媒体的美好想象。还有一些学者认为,此次美国总统选举中美国媒体之所以"一边倒",公开支持美国民主党总统候选人希拉里,是因为美国媒体
+Title-题名: 美国总统选举结局实质是社会阶层对立和博弈的结果
+Author-作者:尹霞
+Source-文献来源: 红旗文稿
+Summary-摘要: 深入分析近20年特别是2008年国际金融危机以来美国社会内部发生的变化,我们便能清楚地认识到,这场大选实质上呈现出的是美国社会中贫富分化的两极——代表资本的精英阶层与中下层民众之间的激烈对立和利益博弈。在这一对立与博弈中,"社会阶级"主题重回美国政治的核心,压倒了那些近几次大选中曾占据中心的纷争议题——种族、民粹、性别、地域等。
+Title-题名: 热话题与冷思考——关于资本主义新态势及其对治理的挑战的对话
+Author-作者:苏长和;彭萍萍
+Organ-单位: 复旦大学国际关系与公共事务学院;中共中央编译局马克思主义研究部
+Summary-摘要: 2008年金融危机发生以来,世界格局处于一个加快演变的历史性进程之中。此后的乌克兰危机、叙利亚危机和欧洲难民危机更进一步增加了世界政治经济格局的变数。2016年英国脱欧公投和美国总统选举这两大"黑天鹅事件"更是令世人瞠目。当今世界面临着怎样的问题?传统的资本主义国家是否正经历着全面深刻的系统性危机?这种危机是否会导致资本主义的最终崩溃?全球化进程是否将出现逆转?危机对当前的治理提出了怎样的挑战?这些挑战将对中国的发展带来何种影响?为加深对这些问题的理解,本刊特约请复旦大学国际关系与公共事务学院苏长和教授就相关问题进行深入探讨。
+Title-题名: 从一些数字看2016年美国总统选举
+Author-作者:张毅
+Keyword-关键词: 美国政治;总统选举;2016;选举人团制度;普选票;特朗普;希拉里·克林顿
+Summary-摘要: 特朗普赢得美国2016年总统选举,得益于美国过时的选举团人制度。虽然他预计会获得306张选举团人票,超过269张的半数,但他所获得的普选票数却比希拉里·克林顿少了280多万张,成为美国历史上遥遥领先的最大的少数票总统。希拉里·克林顿实际只在关键的密歇根州、宾夕法尼亚州和威斯康星州输了不到八万张普选票。特朗普的当选并没有改变近几十年来美国人口结构变化对民主党有利的大趋势,即更倾向支持民主党的非白族裔和受过高等教育的人口的比例持续上升,而除非這一点发生变化,民主党今后赢得美国总统选举的可能仍高于共和党。
+Title-题名: 美国总统大选:有钱人的政治游戏
+Author-作者:周永生
+Organ-单位: 外交学院国际关系研究所;外交学院日本研究中心
+Keyword-关键词: 总统选举;美国大选;金钱政治
+Summary-摘要: 今年的美国总统大选,候选人之间相互谩骂,相互揭短,甚至还出现了与竞选有关的政治死亡事件。美国的大选充满了娱乐的因素,甚至被看作是有钱人的政治游戏。美国总统大选,每一个总统竞选人都有各自不同的治国方案,为美国的国家政策、经济发展,甚至是国际威望,带来了严重的不确定性,这种不确定性使美国自身遭到了严重的伤害。尤其是类似于特朗普这样的大嘴狂人,已经让世界上的一些国家感到担忧。
+Title-题名: 美国总统选举暴露西方民主的虚伪性
+Author-作者:徐长银
+Organ-单位: 新华社世界问题研究中心
+Source-文献来源: 党建
+Summary-摘要: 美国今年的总统选举赤裸裸地暴露出西方民主的虚伪性。无论是选举过程还是产生的两党总统候选人,都体现不出人类社会文明的进步和真正民主的优越性。在初选过程中,各种丑恶现象层出不穷,令西方人士都感到瞠目结舌。两党领导人幕后操纵选举使美国选民感到愤怒。大多数选民对初选的结果——共和党总统候选人特朗普和民主党总统候选人希拉里都不满意,选民们发出了"他们赢得了选票,但赢不了民心"的呼喊,并质疑:美国的民主路在何方?
+Title-题名: 美国总统大选与农业增产:试析小麦
+Author-作者:徐海俊;高凌云
+Organ-单位: 江南大学商学院;中国社会科学院世界经济与政治研究所
+Source-文献来源: 改革
+Keyword-关键词: 美国总统大选;农业政策演进;中国与全球化
+Summary-摘要: 美国总统大选与农业发展之间存在一定的正相关关系,在其他因素不变的情况下,大选将导致农产品增产。在既定需求下,作为农产品出口的全球性大国,美国产量的增加将显著影响全球农产品的价格。必须加快我国农产品供给结构改革,在确保粮食总量安全的基础上充分利用国内外两种资源与两个市场减缓美国粮食产量的变动对我国农产品市场的冲击。具体应从如下方面着手:改变农业现有价格支持方式,促进农产品价格形成的市场化;加快农地流转,提高农业生产的规模效益;逐步推进农业保险覆盖面,保障农民利益。
+Title-题名: “邮件门”打破了美国选举的“民主神话”
+Author-作者:徐岚
+Organ-单位: 宁波市委宣传部
+Summary-摘要: <正>2016年是美国总统的大选之年,选举过程中接连爆出的"猛料",引发舆论争议不断。一边是不时制造惊人之语的纽约大亨特朗普,一边则是身陷"邮件门"丑闻的希拉里,英国《金融时报》认为,这场对决将造就美国总统选举史上"最肮脏的战斗"。美国总统选举被斥为裹着民主外衣的金钱政
+Title-题名: 美国大选中女性竞选人的媒体运用——以卡莉·菲奥里纳和希拉里·克林顿为例
+Author-作者:刘立娟
+Organ-单位: 天津师范大学新闻传播学院
+Summary-摘要: <正>在2016年美国总统大选中,共和党和民主党分别有卡莉·菲奥里纳和希拉里·克林顿两位女性参与竞选。两人执政经历和在选民中的熟识度不同,她们在运用媒体参与竞选方面也呈现出不同特征。卡莉·菲奥里纳的媒体竞选之路2015年5月4日,卡莉·菲奥里纳宣布角逐共和党党内提名参与美国总统大选,此举被视为"对希拉里向总统宝座冲
+Title-题名: 选举预测市场的运行机制、核心假设、预测效力及应用困境分析
+Author-作者:王鹤亭
+Organ-单位: 两岸关系和平发展协同创新中心;河南师范大学政治与公共管理学院
+Keyword-关键词: 选举;预测市场;选举预测市场;政治期货
+Summary-摘要: 选举预测市场是因预测选举结果而形成的政治期货市场,具有发现和聚合信息的功能,其价格则被视为市场交易者整体对选举结果的或然性推测。本文探讨了选举预测市场的核心假设及其争议,发现其存在理论自洽和逻辑严密性上的困境;并基于"后见之明"的视角分析了选举预测市场价格与实际选举结果的实证数据,比较了选举预测市场与民意调查在选举预测上的准确性,验证发现选举预测市场的优势并不明显;最后,探讨了选举预测市场信息功能受限以及未能成为主流选情分析、选举研究、选举决策工具的原因。
+Title-题名: 政治竞选中全球议题的媒体议程分析:基于《纽约时报》美国总统大选的气候报道研究
+Author-作者:钟新;汤璇
+Organ-单位: 中国人民大学新闻学院;中国人民大学新闻与社会发展研究中心
+Source-文献来源: 国际新闻界
+Keyword-关键词: 美国大选;气候议题;信源分析;框架理论
+Summary-摘要: 气候变化是近年来美国总统大选的热门议题之一,候选人对竞选议题的主张与应对是争取选民支持,实现竞选目标的重要途径。本文采取内容分析的方法,以信源分析和框架理论为研究视角,对《纽约时报》2008年、2012年及2016年美国总统大选中涉及气候议题的共234篇报道进行分析,发现在大选期间,尽管共和党候选人在《纽约时报》的信源篇幅上占据了较大比重,但是民主党候选人的"政策应对"中的宣传框架才是《纽约时报》的主流报道框架。在《纽约时报》大选报道的气候议题上,民主党实际上占据了较大的话语优势。
+Title-题名: 美国总统候选人提名制度的演进及争论
+Author-作者:刁大明
+Organ-单位: 中国社会科学院美国研究所
+Keyword-关键词: 美国政治;总统选举;提名制度;初选
+Summary-摘要: 美国总统候选人提名制度决定着未来总统的人选。经历了从国会党团到政党全国代表大会再到如今初选制主导的复杂而曲折的制度变迁,现行的美国总统候选人提名制度可被视为是由各州、各政党在不同历史时期多次渐进改革成果叠加而成的产物。在联邦与各州的分权、政党精英与普通民众的平衡等因素的交互影响下,美国总统候选人的提名制度仍旧存在着各州初选差异性、各州初选"前置"竞争,以及"超级代表"等争议议题。可以预见,美国总统候选人提名制度将继续处于调整与改革之中。
+Title-题名: “山巅之国”的立国之因支撑美国超级大国地位的四大优势
+Organ-单位: 国际关系学院国际政治系
+Keyword-关键词: 美国崛起;强国之路;制度优势;政治文化
+Summary-摘要: 优越的地缘安全环境与难得的时代机遇为美国的发展壮大提供了客观条件;相互制衡的政治文化与制度优势,独特的政治思潮与精巧的国际战略谋划,是支撑美国大国地位的主观条件。未来,只要这些因素没有发生太大变化,美国作为世界超级大国的地位还将维持相当长的一段时间。
+Title-题名: 从总统选举看美国政治发展的新动向
+Author-作者:田新文
+Organ-单位: 湖北科技学院思想政治理论课部
+Source-文献来源: 江汉论坛
+Keyword-关键词: 总统选举;政治发展;两党制;奥巴马
+Summary-摘要: 总统选举是美国最重要的政治活动,每一次大选都要经历胶着的竞选过程,候选人通过各种方式赢得选民支持,2012年的总统选举也不例外。通过这场影响显著的选举活动可以看到美国政治生活新的发展要素:新闻媒体不断削弱政党组织的作用,选民自由选择意识日益增强,两党分化逐渐加剧,其他政治力量的作用开始凸显,对华政策在选举中的作用继续上升。这一系列新动向展示了美国政治生活的现实形态和未来走向,为了解美国政治发展提供了重要的参照。
+Title-题名: 美国选举人团制度:弊病、因缘与改革
+Author-作者:刘晨光
+Organ-单位: 中共中央党校科学社会主义教研部
+Source-文献来源: 中国党政干部论坛
+Summary-摘要: <正>在220多年的历史变迁中,美国选举人团制度离其创设本意渐行渐远。它对美国政治发展助益良多,其弊病却也越发彰显。事实上,美国社会一直存在要求改革乃至废除此制度的呼声。那么,选举人团制度到底有何主要弊病?如何偏离其创设本意?为何改革之声一直不断却无法根本更张?一、选举人团制度的主要弊病美国选举人团制度存在的主要问题,就是可能产生所谓的"少数票总统",有违民主的"多数决"要求。而之所以会产生"少数票总统",很大程度上在于选举人团
+Title-题名: 政治宽容:衡量民主成熟度的标尺
+Author-作者:仇颖
+Organ-单位: 南京大学政府管理学院
+Source-文献来源: 求实
+Summary-摘要: <正>工业化和市场化导致了现代社会结构转型、功能分化、社会分层、交往扩大、复杂多元,形成了日益多元异质化特征的社会结构,这要求各种社会实体之间建立契约化的平等关系,以便平等、自由地追求自身利益,表达政治诉求。为此要在相互间建立认同、尊重的制度基础。而政治宽容则成为多元政治利益建立的基础,成为现代多元社会的治理规则,更成为衡量民主政治的重要尺度。本文旨在阐释民主与政治宽容之间的内在关系,并通过美国总统选举
+Title-题名: 用实证调查的方法看传播效果
+Author-作者:王畔
+Summary-摘要: <正>《议程设置:大众媒介与舆论》引用了大量抽象议程和具体议程的实例和分析结果。在西方国家,总统选举是以媒介议程影响公众决定的明显例子。作者使用1972年和1976年美国总统选举、日本地方选举、阿根廷地方选举的经验证据进行了定量分析,提出了本书的核心观点:新闻中强调的议题随着时间的演化会成为公众认为重要的议题,媒介的议程设定了公众的议程。具体到选举这个议程,也许那些心里有自己坚定支持党派的公众不会因媒介宣传而改变自己的看法,但是媒介对于摇摆不定的选民,则有明显的影响。
